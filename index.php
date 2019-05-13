@@ -5,4 +5,4 @@
  * Date: 2019/5/13
  * Time: 22:50
  */
-echo 'hello world';
+echo json_encode(['code' => 400 , 'msg' => '测试']);
